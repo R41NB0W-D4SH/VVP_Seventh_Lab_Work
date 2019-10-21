@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	setlocale(0, "");
-	int a, b, c, d, e;
+	int a, b, c;
 	cout << "Введите стороны треугольника ABC. (Сначала A, потом B, потом C) " << endl;
 	cin >> a >> b >> c;
 
